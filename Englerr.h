@@ -26,7 +26,7 @@ namespace chapter12_StreamAndfiles
 		}
 		void SowDistance()
 		{
-			cout << feet << "\' - " << inches << '\"';
+			cout << feet << "\' - " << inches << '\"' << endl;
 		}
 		void Getdistance();
 	};
