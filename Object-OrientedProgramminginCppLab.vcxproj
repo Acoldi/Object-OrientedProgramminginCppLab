@@ -130,6 +130,8 @@
     <ClInclude Include="Chapter12_SreamAndFiles.h" />
     <ClInclude Include="Englerr.h" />
     <ClInclude Include="FirendFunctoins.h" />
+    <ClInclude Include="TryCatch.h" />
+    <ClInclude Include="VERYLONG.h" />
     <ClInclude Include="VirtualPublic.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

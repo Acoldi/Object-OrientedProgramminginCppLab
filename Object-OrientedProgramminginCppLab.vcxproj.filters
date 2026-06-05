@@ -16,6 +16,12 @@
     <Filter Include="Header Files\Chapter11">
       <UniqueIdentifier>{0c621673-e9ef-4944-99fd-059cab3c14e8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Chapter13">
+      <UniqueIdentifier>{5ea5e695-d197-42e7-8cd6-96ded76c315d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Chapter14">
+      <UniqueIdentifier>{f1ff4b49-4fb7-4a8e-8122-26c08bac3c9b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Object-OrientedProgramminginCppLab.cpp">
@@ -37,6 +43,12 @@
     </ClInclude>
     <ClInclude Include="Englerr.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VERYLONG.h">
+      <Filter>Header Files\Chapter13</Filter>
+    </ClInclude>
+    <ClInclude Include="TryCatch.h">
+      <Filter>Header Files\Chapter14</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

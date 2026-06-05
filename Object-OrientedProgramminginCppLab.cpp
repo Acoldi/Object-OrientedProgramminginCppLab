@@ -7,6 +7,8 @@
 
 #include "Chapter11_VirtualFunctinos.h";
 #include "Chapter12_SreamAndFiles.h";
+#include "VERYLONG.h";
+#include "TryCatch.h";
 
 using namespace std;
 
@@ -21,6 +23,7 @@ int main()
 	//chapter11VirtualFunctions::STRIMEM::main();
 	//chapter11VirtualFunctions::Exercise3::main();
 #pragma endregion
+
 #pragma region chapter 12 StreamsAndFIles
 
 	//chapter12_StreamAndfiles::Englerr::Main();
@@ -40,7 +43,18 @@ int main()
 	//chapter12_StreamAndfiles::Exercises::e4::e4();
 	//chapter12_StreamAndfiles::Exercises::e6::e6();
 	//chapter12_StreamAndfiles::Exercises::e7::e7();
-	chapter12_StreamAndfiles::Exercises::e12::e12();
+	//chapter12_StreamAndfiles::Exercises::e12::e12();
+#pragma endregion
+
+#pragma region chapter13
+	//chapter13::verylong::main();
+	//chapter13::verylong::vl_app();
+	chapter13::projects::one::main();
+#pragma endregion
+
+#pragma region chapter14
+	//chapter14::TryCatch::main();
+#pragma endregion
 
 #pragma endregion
 
@@ -115,6 +129,7 @@ int main()
 //	return 0;
 //}
 #pragma endregion
+
 #pragma region e3
 //int main(int argc, char* argv[])
 //{
